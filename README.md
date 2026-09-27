@@ -1,18 +1,10 @@
 ![Pavan Kumar Regalla — Data Engineer & Data Analyst](banner.png)
-# Hi there, I'm Pavan Kumar Regalla 👋
 
+I'm Pavan. I work the full data stack, and I like building things that actually run — ingestion pipelines that don't break at 2am, streaming systems that keep up, dashboards people actually open.
 
-**Data Engineer & Data Analyst** | AWS Certified Data Engineer – Associate | Power BI (PL-300)
+These days I'm into batch + streaming pipelines (Spark, Kafka), lakehouses (Delta Lake, Databricks), analytics engineering (dbt, SQL), and BI (Power BI, DAX) — mostly on AWS.
 
-
-I build end-to-end data platforms — ingestion pipelines, real-time streaming, analytics models, and dashboards. 5+ years turning raw data into decisions across AWS and Azure.
-
-
----
-
-
-### 🛠️ Tech Stack
-
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -26,35 +18,15 @@ I build end-to-end data platforms — ingestion pipelines, real-time streaming, 
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-
----
-
-
-### 🚀 Featured Projects
-
+### Work you can run
 
 | Project | What it does |
 |---|---|
-| [☁️ Cloud Analytics Knowledge Search](https://github.com/pavanregalla1/cloud-analytics-knowledge-search) | Hybrid RAG over 300 synthetic enterprise docs — TF-IDF + dense (MiniLM) + hybrid retrieval, measured recall/MRR, extractive answers with citations, Streamlit UI |
-| [⚡ Real-Time Retail Intelligence](https://github.com/pavanregalla1/realtime-retail-intelligence) | Kafka → Spark Structured Streaming → Delta Lake platform with ML forecasting and real-time fraud alerts, dbt-tested |
-| [📊 Retail Sales Analytics](https://github.com/pavanregalla1/retail-sales-analytics) | Batch lakehouse (bronze/silver/gold) processing 56K+ orders ($80.96M), 10/10 data-quality checks, Power BI dashboard |
+| [Cloud Analytics Knowledge Search](https://github.com/pavanregalla1/cloud-analytics-knowledge-search) | Hybrid RAG over 300 synthetic enterprise docs — TF-IDF + dense (MiniLM) + hybrid retrieval, measured recall/MRR, extractive answers with citations, Streamlit UI |
+| [Real-Time Retail Intelligence](https://github.com/pavanregalla1/realtime-retail-intelligence) | Kafka → Spark Structured Streaming → Delta Lake platform with ML forecasting and real-time fraud alerts, dbt-tested |
+| [Retail Sales Analytics](https://github.com/pavanregalla1/retail-sales-analytics) | Batch lakehouse (bronze/silver/gold) processing 56K+ orders ($80.96M), 10/10 data-quality checks, Power BI dashboard |
 
-
----
-
-
-### 📊 GitHub Stats
-
-
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanregalla1&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanregalla1&layout=compact&theme=tokyonight)
-
-
----
-
-
-### 🏅 Certifications
-
+### Certifications
 
 - AWS Certified Data Engineer – Associate
 - Microsoft Power BI Data Analyst Associate (PL-300)
@@ -62,11 +34,11 @@ I build end-to-end data platforms — ingestion pipelines, real-time streaming, 
 - Databricks Fundamentals Accreditation
 - Microsoft Azure AI Engineer Associate (AI-102)
 
+### Stats
 
----
+![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanregalla1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanregalla1&layout=compact&theme=tokyonight)
 
-
-### 📫 Connect with me
-
+### Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thepavanlkdnxyz)
