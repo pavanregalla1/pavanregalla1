@@ -31,7 +31,7 @@ These days I'm into batch + streaming pipelines (Spark, Kafka), lakehouses (Delt
 | [Real-Time Retail Intelligence](https://github.com/pavanregalla1/realtime-retail-intelligence) | Kafka → Spark Structured Streaming → Delta Lake platform with ML forecasting and real-time fraud alerts, dbt-tested |
 | [Retail Sales Analytics](https://github.com/pavanregalla1/retail-sales-analytics) | Batch lakehouse (bronze/silver/gold) processing 56K+ orders ($80.96M), 10/10 data-quality checks, Power BI dashboard |
 | [Cloud Analytics Knowledge Search](https://github.com/pavanregalla1/cloud-analytics-knowledge-search) | Hybrid Retrieval and Grounded QA over 300 synthetic enterprise documents — TF-IDF + dense (MiniLM) + hybrid retrieval, measured recall/MRR, extractive answers with citations, Streamlit UI |
-| [Portfolio](https://github.com/pavanregalla1/portfolio) | Personal portfolio website — Data Engineer \| Data Analyst |
+| [Portfolio](https://pavanregalla.dev) | Personal portfolio website — Data Engineer \| Data Analyst |
 
 
 ### Certifications
